@@ -31,7 +31,7 @@ This application basically deals with the sales and product management of a bake
 
 1. Open the link and enter username and password
 ### Web Login
-	Username : aparna.d	Password : welcome@1
+	Username : dchuai	Password : welcome@1
 ### Django Admin
 	Username : admin1 password : admin1
 
