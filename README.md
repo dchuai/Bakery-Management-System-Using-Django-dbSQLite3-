@@ -24,13 +24,9 @@ This application basically deals with the sales and product management of a bake
 ![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/dashboard.png)
 
 ---------------------------
-# Our Bakery Management System Demonstration Video:
-<video width="640" height="360" controls>
-  <source src="Sweet-Delight-Bakery-System_demonstration-video-1.mp4" type="video/mp4">
-  <source src="Sweet-Delight-Bakery-System_demonstration-video-1.webm" type="video/webm">
-  <source src="Sweet-Delight-Bakery-System_demonstration-video-1.ogv" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+# Our Bakery Management System Demonstration Video
+
+[![System Demonstration Video](video_thumbnail.jpg)](https://drive.google.com/uc?id=1OHLei-VKUc_DtI0zIncPbi92bYf2oeqD)
 
 
 ## M08 Final Project Submission 
