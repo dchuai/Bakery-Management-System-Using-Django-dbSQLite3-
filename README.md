@@ -25,7 +25,11 @@ This application basically deals with the sales and product management of a bake
 
 ---------------------------
 # Our Bakery Management System Demonstration Video:
-<video src="Sweet%20Delight%20Bakery%20System_demonstration%20video-1.mp4" controls title="System Demonstation Video"></video>
+<video width="640" height="360" controls>
+  <source src="Sweet-Delight-Bakery-System_demonstration-video-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## M08 Final Project Submission 
 
