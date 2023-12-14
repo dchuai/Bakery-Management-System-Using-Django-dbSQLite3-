@@ -1,4 +1,7 @@
 # BAKERY MANAGEMENT SYSTEM
+# Our Bakery Management System Demonstration Video:
+<video src="Sweet%20Delight%20Bakery%20System_demonstration%20video-1.mp4" controls title="Title"></video>
+
 ## Introduction
  Welcome to the Sweet Delights Bakery System User's Guide. This document provides an overview of the features and use cases of our Python-based system designed to streamline operations and enhance customer engagement for our local bakery.
 
