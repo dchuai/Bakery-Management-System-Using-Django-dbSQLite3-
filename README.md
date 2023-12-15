@@ -7,6 +7,7 @@ This application basically deals with the sales and product management of a bake
 
 ![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/login.png)
 
+![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/1.%20Admin%20Page.png)
 ![alt_text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/homesales.png)
 ![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/homeproduct.png)
 ![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/addsupplier.png)
