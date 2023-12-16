@@ -28,7 +28,7 @@ This application basically deals with the sales and product management of a bake
 ---------------------------
 # Our Bakery Management System Demonstration Video
 
-[![System Demonstration Video](video_thumbnail.jpg)](https://drive.google.com/uc?id=1OHLei-VKUc_DtI0zIncPbi92bYf2oeqD)
+[![System Demonstration Video](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/SDEV-220.png)](https://drive.google.com/uc?id=1OHLei-VKUc_DtI0zIncPbi92bYf2oeqD)
 
 
 ## M08 Final Project Submission 
