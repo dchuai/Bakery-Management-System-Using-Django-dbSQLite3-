@@ -1,5 +1,6 @@
 # BAKERY MANAGEMENT SYSTEM
-
+# M08 Final Project Submission
+![alt text](https://docs.google.com/document/d/1u_rvg36XBWNoLOj8oJVzyhROb4euzJj5/edit)
 ## Introduction
  Welcome to the Sweet Delights Bakery System User's Guide. This document provides an overview of the features and use cases of our Python-based system designed to streamline operations and enhance customer engagement for our local bakery.
 
