@@ -1,6 +1,6 @@
 # BAKERY MANAGEMENT SYSTEM
 # M08 Final Project Submission
-[![alt text](image_url)](https://docs.google.com/document/d/1u_rvg36XBWNoLOj8oJVzyhROb4euzJj5/edit?usp=sharing&ouid=112337722999507787186&rtpof=true&sd=true)
+[![alt text](https://github.com/dchuai/Bakery-Management-System-Using-Django-dbSQLite3-/blob/main/UIUX/Final%20Project.png)](https://docs.google.com/document/d/1u_rvg36XBWNoLOj8oJVzyhROb4euzJj5/edit?usp=sharing&ouid=112337722999507787186&rtpof=true&sd=true)
 ## Introduction
  Welcome to the Sweet Delights Bakery System User's Guide. This document provides an overview of the features and use cases of our Python-based system designed to streamline operations and enhance customer engagement for our local bakery.
 
